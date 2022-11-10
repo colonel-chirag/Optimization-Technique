@@ -1,5 +1,5 @@
 # Optimization-Technique
-![image](https://user-images.githubusercontent.com/59536110/201070947-8a7c217a-f0bc-4cf9-b0dc-731710c3c42d.png)
+![image](https://user-images.githubusercontent.com/59536110/201071216-e29b0158-e115-440d-8cd5-706f1a36b186.png)
 
 
 ![image](https://user-images.githubusercontent.com/59536110/200878549-cf107aae-f64e-4732-bf9f-a106a23250fe.png)
