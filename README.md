@@ -1,4 +1,6 @@
 # Optimization-Technique
+![image](https://user-images.githubusercontent.com/59536110/201929408-54cc4b05-cfaf-4336-884c-953623f0f662.png)
+
 ![image](https://user-images.githubusercontent.com/59536110/201071216-e29b0158-e115-440d-8cd5-706f1a36b186.png)
 
 
