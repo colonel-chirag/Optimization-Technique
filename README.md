@@ -1,5 +1,4 @@
-# Optimization-Technique
-LPP / DUALITY / IP /DP/ TnA model / https://www.youtube.com/playlist?list=PL23dd-8zssJAdGmsSofO4UaRyEXZDtm7a
+
 
 Game Theory https://www.youtube.com/playlist?list=PLEjRWorvdxL45kZayu9oBBGHFfO406YYA
 
